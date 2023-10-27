@@ -8,6 +8,11 @@ This is an dummy dataset for a company that does not exist, gotten online and us
 
 _Disclaimer : This report does not in any way represent any institution or company_.
 ---
+
+### TASK
+
+![](CCC.PNG)
+
 ### TOOLS
 - EXCEL: DATA Cleaning and analysis.
 
